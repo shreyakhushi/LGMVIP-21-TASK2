@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background-image: url("https://th.bing.com/th/id/R.5298e594c0b7672de3ba08d7b60e1e50?rik=6amEr8YlZe5B2g&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f04%2fAbstract-grey-wallpaper-hd-backgrounds.jpg&ehk=et2uVfKo4tbNZJ1l6wGBztrJPLIab5g5dpWxURQe6Dg%3d&risl=&pid=ImgRaw&r=0");
+background-size: cover;
+
+}
+
